@@ -1,6 +1,6 @@
 import link from './link'
 import remember from './remember'
-import { computed, h, markRaw, ref } from 'vue'
+import { computed, h, markRaw, ref } from 'vue-demi'
 import { Inertia } from '@inertiajs/inertia'
 
 const component = ref(null)

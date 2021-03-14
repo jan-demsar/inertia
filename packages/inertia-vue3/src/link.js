@@ -1,4 +1,4 @@
-import { h } from 'vue'
+import { h } from 'vue-demi'
 import { hrefToUrl, Inertia, mergeDataIntoQueryString, shouldIntercept } from '@inertiajs/inertia'
 
 export default {
